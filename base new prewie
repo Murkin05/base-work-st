@@ -1,0 +1,7 @@
+def square(number):
+    return number * number
+
+# Example usage
+given_number = 5
+result = square(given_number)
+print(f"The square of {given_number} is {result}")
